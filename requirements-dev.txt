@@ -1,11 +1,11 @@
 attrs==19.3.0
 flake8==3.7.9
-coverage==5.0.3
+coverage==5.0.4
 sphinx==2.4.4
 alabaster>=0.6.2
 aiohttp==3.6.2
 jinja2==2.11.1
-pytest==5.3.5
+pytest==5.4.1
 pytest-cov==2.8.1
 yarl==1.4.2
 multidict==4.7.5
